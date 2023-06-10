@@ -10,3 +10,4 @@ exercise 8: script that writes into the file ls_cwd_content the result of the co
 exercise 9:  a script that duplicates the last line of the file iac
 exercise 10: script that deletes regular files with the .js extension
 exercise 11: script that counts the number of directories and sub-directories in the current directory
+exercise 12: a script that displays the 10 newest files in the current directory
