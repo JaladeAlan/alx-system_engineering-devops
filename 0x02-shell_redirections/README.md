@@ -9,3 +9,4 @@ exerise 7: shell script that creates a file named exactly \*\\'"Best School"\'\\
 exercise 8: script that writes into the file ls_cwd_content the result of the command ls -la
 exercise 9:  a script that duplicates the last line of the file iac
 exercise 10: script that deletes regular files with the .js extension
+exercise 11: script that counts the number of directories and sub-directories in the current directory
