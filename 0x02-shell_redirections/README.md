@@ -4,3 +4,4 @@ exercise 2: script to display the content of the file in a directory
 exercise 3:  script to display the contents of two files in a directory
 exercise 4: script to Display the last 10 lines of a file
 exercise 5: script to display the first 10 lines of a file
+exercise 6; script to display the third line of a file
