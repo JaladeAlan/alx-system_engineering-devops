@@ -21,3 +21,4 @@ exercise 19: Replace all characters A and c from input to Z and e respectively.
 Exercise 20: script that removes all letters c and C from input.
 exercise 21: script that reverses texts
 exercise 22: script that displays all users and their home directories, sorted by users
+exercise 23: command that finds all empty files and directories in the current directory and all sub-directories
