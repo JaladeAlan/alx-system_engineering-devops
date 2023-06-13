@@ -4,3 +4,4 @@ exercise 2: Adding /action to the PATH
 exercisr 3: script that counts the number of directories in the PAc
 exercie 4: script that lists environment variables
 exercise 5:script that lists all local variables and environment variables, and functions
+exercise 6: script that creates a new local variable
