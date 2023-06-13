@@ -14,3 +14,4 @@ exercise 12: script that prints all possible combinations of two letters, except
 exercise 13: script that prints a number with two decimal places
 exercise 14: script that converts a number from base 10 to base 16
 exercise 15: script that encodes and decodes text using the rot13 encryption. 
+exercise 16: script that prints every other line from the input, starting with the first line
