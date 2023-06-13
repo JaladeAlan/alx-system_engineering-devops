@@ -12,3 +12,4 @@ exercise 10: script that displays the result of BREATH to the power LOVE
 exercise 11: script that converts a number from base 2 to base 10
 exercise 12: script that prints all possible combinations of two letters, except oo
 exercise 13: script that prints a number with two decimal places
+exercise 14: script that converts a number from base 10 to base 16
