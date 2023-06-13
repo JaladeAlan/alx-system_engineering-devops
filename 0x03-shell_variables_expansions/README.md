@@ -7,3 +7,4 @@ exercise 5:script that lists all local variables and environment variables, and 
 exercise 6: script that creates a new local variable
 exercise 7: script that creates a new global variable
 exercise 8: script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE
+exercise 9: script that prints the result of POWER divided by DIVIDE
